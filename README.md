@@ -1,2 +1,2 @@
 # actividadconflicto
-rama develop
+rama main
